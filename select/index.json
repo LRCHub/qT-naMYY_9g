@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Sunny",
+  "base_artist": "CodyLee",
+  "createdAt": "2026-03-20T05:03:06.100329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunny and 75",
+      "artist": "Joe Nichols",
+      "has_synced": true,
+      "path": "select/01_Sunny_and_75_Joe_Nichols.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunny - Live",
+      "artist": "Girls' Generation (Sunny)",
+      "has_synced": true,
+      "path": "select/02_Sunny_-_Live_Girls'_Generation_(Sunny).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunny (써니)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Sunny_(써니)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bare ett smil (feat. Sunny)",
+      "artist": "Svartepetter",
+      "has_synced": false,
+      "path": "select/04_Bare_ett_smil_(feat._Sunny)_Svartepetter.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gun Will Go Feat Sunny Valentine",
+      "artist": "Wu Tang Clan",
+      "has_synced": true,
+      "path": "select/05_Gun_Will_Go_Feat_Sunny_Valentine_Wu_Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ingen Gud å se (feat. Sunny)",
+      "artist": "Svartepetter",
+      "has_synced": true,
+      "path": "select/06_Ingen_Gud_å_se_(feat._Sunny)_Svartepetter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Livet går videre feat Oter og Sunny",
+      "artist": "Herreløse",
+      "has_synced": true,
+      "path": "select/07_Livet_går_videre_feat_Oter_og_Sunny_Herreløse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nattasang Til Kaèl (feat. Sunny)",
+      "artist": "Svartepetter feat. Sunny",
+      "has_synced": false,
+      "path": "select/08_Nattasang_Til_Kaèl_(feat._Sunny)_Svartepetter_feat._Sunny.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Starter Feat Sunny Valentine And Tashmahogany",
+      "artist": "Wu Tang Clan",
+      "has_synced": false,
+      "path": "select/09_Starter_Feat_Sunny_Valentine_And_Tashmahogany_Wu_Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stripete Jesus (feat. Sunny)",
+      "artist": "Svartepetter",
+      "has_synced": false,
+      "path": "select/10_Stripete_Jesus_(feat._Sunny)_Svartepetter.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All on a Sunny Day",
+      "artist": "Deon Jackson",
+      "has_synced": false,
+      "path": "select/11_All_on_a_Sunny_Day_Deon_Jackson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Very Sunny",
+      "artist": "Casino Versus Japan",
+      "has_synced": true,
+      "path": "select/12_It's_Very_Sunny_Casino_Versus_Japan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunny Cellophane Skies",
+      "artist": "Status Quo",
+      "has_synced": false,
+      "path": "select/13_Sunny_Cellophane_Skies_Status_Quo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sunny Cellophane Skies",
+      "artist": "The Status Quo",
+      "has_synced": false,
+      "path": "select/14_Sunny_Cellophane_Skies_The_Status_Quo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sunny Road",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/15_Sunny_Road_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Seven Days in Sunny June",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/16_Seven_Days_in_Sunny_June_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Seven Days in Sunny June",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/17_Seven_Days_in_Sunny_June_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Always The Sun - Sunny Side Up Mix",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/18_Always_The_Sun_-_Sunny_Side_Up_Mix_The_Stranglers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunny",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/pl_01_Sunny_Cody・Lee(李).txt"
+    }
+  ]
+}
